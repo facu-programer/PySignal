@@ -1,8 +1,8 @@
-# PySignal
+# ScriptSignals
 1. # instalar
-    -usá ```pip install PySignal``` para instalar PySignal
+    -usá ```pip install ScriptSignals``` para instalar ScriptSignals
 2. # importar
-    -usa ````import PySignal```` para importar Pysignal
+    -usa ````import ScriptSignals```` para importar ScriptSignals
 3. # usar
     1. # send:
        - funcion: enviar informacion a otro script
